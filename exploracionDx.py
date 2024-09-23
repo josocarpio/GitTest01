@@ -1,1 +1,5 @@
-"mi primer modulo01"
+#mi primer modulo01
+
+
+def correlacionpares ():
+    return "funcion exploracion"
